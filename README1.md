@@ -3,15 +3,13 @@
 This is the code repository implementing the paper:
 
 > **Deep fake: Speaker-Aware Talking-Head Animation**
->
+> [mrkatouei from pesia]  (mr.katouei@gmail.com)
 > [Yang Zhou](https://people.umass.edu/~yangzhou), 
 > [Xintong Han](http://users.umiacs.umd.edu/~xintong/), 
 > [Eli Shechtman](https://research.adobe.com/person/eli-shechtman), 
 > [Jose Echevarria](http://www.jiechevarria.com) , 
 > [Evangelos Kalogerakis](https://people.cs.umass.edu/~kalo/), 
 > [Dingzeyu Li](https://dingzeyu.li)
->
-> SIGGRAPH Asia 2020
 >
 > **Abstract** We present a method that generates expressive talking-head videos from a single facial image with audio as the only input. In contrast to previous attempts to learn direct mappings from audio to raw pixels for creating talking faces, our method first disentangles the content and speaker information in the input audio signal. The audio content robustly controls the motion of lips and nearby facial regions, while the speaker information determines the specifics of facial expressions and the rest of the talking-head dynamics. Another key component of our method is the prediction of facial landmarks reflecting the speaker-aware dynamics. Based on this intermediate representation, our method works with many portrait images in a single unified framework, including artistic paintings, sketches, 2D cartoon characters,  Japanese mangas, and stylized caricatures.
 In addition, our method generalizes well for faces and characters that were not observed during training. We present extensive quantitative and qualitative evaluation of our method, in addition to user studies, demonstrating generated talking-heads of significantly higher quality compared to prior state-of-the-art methods.
