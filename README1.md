@@ -3,7 +3,7 @@
 This is the code repository implementing the paper:
 
 > **Deep fake: Speaker-Aware Talking-Head Animation**
-> [mrkatouei from pesia]  (mr.katouei@gmail.com)
+> [mrkatouei from persia]  mr.katouei@gmail.com
 > [Yang Zhou](https://people.umass.edu/~yangzhou), 
 > [Xintong Han](http://users.umiacs.umd.edu/~xintong/), 
 > [Eli Shechtman](https://research.adobe.com/person/eli-shechtman), 
